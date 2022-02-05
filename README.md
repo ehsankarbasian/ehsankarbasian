@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Django framework and Backend web development tools such as: (Celery, redis, docker, ...)
+- 🌱 I’m currently learning Django framework and Backend development tools such as: (Celery, redis, docker, ...)
 - 👯 I’m looking to collaborate with a company for my Internship (Tehran or Isfahan | Presence or Remote)
 - 🔭 I’m currently working on my sample projects that are all on GitHub
 - 📫 familiar with CleanCode-DRY-KISS-SOLID-Scrum-Agile-TDD-Trello-SQL
