@@ -1,5 +1,5 @@
-### Hi there 👋
-# https://www.linkedin.com/in/ehsan-karbasian/
+## Hi there 👋
+### https://www.linkedin.com/in/ehsan-karbasian
 <!--
 ### Hi there 👋
 - 🌱 I’m currently learning Django framework and Backend development tools such as: (Celery, redis, docker, ...)
