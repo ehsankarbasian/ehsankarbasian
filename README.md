@@ -1,19 +1,32 @@
-## Hi there 👋
-### https://www.linkedin.com/in/ehsan-karbasian
-<!--
-### Hi there 👋
-- 🌱 I’m currently learning Django framework and Backend development tools such as: (Celery, redis, docker, ...)
-- 👯 I’m looking to collaborate with a company for my Internship (Tehran or Isfahan | Presence or Remote)
-- 🔭 I’m currently working on my sample projects that are all on GitHub
-- 📫 familiar with CleanCode-DRY-KISS-SOLID-Scrum-Agile-TDD-Trello-SQL
+## Hi there 👋  
+I’m **Ehsan Karbasian**, a Backend Developer with a focus on **Python** & **Django**.
 
-**ehsankarbasian/ehsankarbasian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📫 Find me online
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ehsan--karbasian-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ehsan-karbasian)  
+[![PyPI](https://img.shields.io/badge/PyPI-ehsan__karbasian-orange?logo=pypi&style=flat-square)](https://pypi.org/user/ehsan_karbasian/)  
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-ehsan-yellow?logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/11969460/ehsan)  
+📧 **Gmail**: ehsan.karbasian@gmail.com  
+
+---
+
+### 🛠 Skills & Interests
+
+- 🐍 **Backend Development**: Python (Django)  
+- 🌐 Familiar with **RESTful APIs** (DRF)  
+- 🧪 Familiar with **Software Testing** (unit, integration, etc.)  
+- ⚙️ Experience with **Microservices**, **Docker**, **Redis**, **RabbitMQ**, **MongoDB**, **SQL**
+- 📚 Interested in **SOLID**, **Software engineering best practices**, **Design Patterns**  
+
+---
+
+### 🌱 Currently
+
+- Building my own projects to show in my resume  
+- Improving my skills in **Clean Code**, **Testing**, **Design Patterns**, **Backend best practices**, and more...  
+
+---
+
+Thanks for visiting my profile  
