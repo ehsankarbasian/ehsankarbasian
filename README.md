@@ -1,32 +1,31 @@
-## Hi there 👋  
-I’m **Ehsan Karbasian**, a Backend Developer with a focus on **Python** & **Django**.
+# Hi, I'm Ehsan Karbasian 👋
+
+Backend Software Engineer focused on designing reliable, maintainable, and well-architected systems in **Python**. I care deeply about clean abstractions, runtime safety, and software architecture (DDD & Design Patterns).
 
 ---
 
-### 📫 Find me online
+### 📦 Open Source Libraries (PyPI)
+Tools I've built to eliminate boilerplate, enforce contracts, and improve runtime resilience:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ehsan--karbasian-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ehsan-karbasian)  
-[![PyPI](https://img.shields.io/badge/PyPI-ehsan__karbasian-orange?logo=pypi&style=flat-square)](https://pypi.org/user/ehsan_karbasian/)  
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-ehsan-yellow?logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/11969460/ehsan)  
-📧 **Gmail**: ehsan.karbasian@gmail.com  
-
----
-
-### 🛠 Skills & Interests
-
-- 🐍 **Backend Development**: Python (Django)  
-- 🌐 Familiar with **RESTful APIs** (DRF)  
-- 🧪 Familiar with **Software Testing** (unit, integration, etc.)  
-- ⚙️ Experience with **Microservices**, **Docker**, **Redis**, **RabbitMQ**, **MongoDB**, **SQL**
-- 📚 Interested in **SOLID**, **Software engineering best practices**, **Design Patterns**  
+* **[interface-py](https://github.com/ehsankarbasian/interface-py)** — Lightweight runtime contract enforcement and explicit interface specifications for Python.
+* **[deflex-dict](https://github.com/ehsankarbasian/flexible_dict)** — Defensive and resilient data-traversal dictionary for deeply nested and volatile payloads.
+* **[log-buffer](https://github.com/ehsankarbasian/Log-Buffer)** — Thread-safe, in-memory buffering and diagnostic aggregation for runtime failure inspection.
 
 ---
 
-### 🌱 Currently
-
-- Building my own projects to show in my resume  
-- Improving my skills in **Clean Code**, **Testing**, **Design Patterns**, **Backend best practices**, and more...  
+### 🏛️ Architecture & Knowledge Repositories
+* **[DesignPatterns](https://github.com/ehsankarbasian/DesignPatterns)** — Practical, clean implementations of classic GoF and enterprise software design patterns in Python (Creational, Structural, Behavioral, Specification, etc.).
 
 ---
 
-Thanks for visiting my profile  
+### 🛠️ Core Engineering Focus
+* **Languages & Core:** Python (Internals, AST, Metaprogramming, OOP)
+* **Architecture:** Domain-Driven Design (DDD), Clean Architecture, Separation of Concerns
+* **System Design & Reliability:** Fault Tolerance, Caching (Redis), In-Memory Buffering, Clean Persistence
+
+---
+
+### 📬 Connect with Me
+* **LinkedIn:** [linkedin.com/in/ehsan-karbasian](https://linkedin.com/in/ehsan-karbasian)
+* **PyPI:** [pypi.org/user/ehsankarbasian](https://pypi.org/user/ehsankarbasian)
+* **Email:** [email protected]
