@@ -7,7 +7,7 @@ Backend Software Engineer focused on Python runtime internals, fault-tolerant ba
 ### 📦 Open Source Libraries (PyPI)
 
 * **[interface-py](https://github.com/ehsankarbasian/interface-py)** — Lightweight runtime contract enforcement and explicit interface specifications for Python.
-* **[deflex-dict](https://github.com/ehsankarbasian/deflex-dict)** — Defensive and resilient data-traversal dictionary for deeply nested and volatile payloads.
+* **[deepflex-dict](https://github.com/ehsankarbasian/flexible_dict)** — Defensive and resilient data-traversal dictionary for deeply nested and volatile payloads.
 * **[log-buffer](https://github.com/ehsankarbasian/log-buffer)** — Thread-safe, in-memory diagnostic buffering and error aggregation for runtime failure inspection.
 
 ---
